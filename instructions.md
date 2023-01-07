@@ -1,6 +1,6 @@
 ## Whisper UI - Transcriptions, Summaries & Analytics
 
-> Enpi v0.1
+> enpi v0.1
 ---
 
 #### Run Whisper
