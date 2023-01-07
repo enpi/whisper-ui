@@ -1,6 +1,6 @@
 ## Whisper UI - Transcriptions, Summaries & Analytics
 
-> Feel free to [send a PR](https://github.com/hayabhay/whisper-ui/) if you want to add any more analytics or features!
+> Enpi v0.1
 ---
 
 #### Run Whisper
